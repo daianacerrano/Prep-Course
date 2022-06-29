@@ -1,0 +1,17 @@
+
+
+-VARIABLE: es un espacio en la memoria que puede almacenar valores que puede variar durante la ejecución de un programa. Que quiere decir esto, bueno básicamente es como si tuviera una caja y en ella guardara lápices, pero luego en vez de lápices, guardaría fibras, la caja representa la variable y los lápices o fibras representan el valor. Por ejemplo:
+ 
+
+            var caja=lapices
+
+-STRING: Cadena de caracteres, un conjunto de letras o palabras que están entre comillas ("") o apostrofes('') por ejemplo:
+
+
+            "hola mundo"          
+
+-VALORES BOOLEANOS: significa que tiene dos opciones, activar o desactivar, verdadero (true) o falso (false).
+
+-FUNCIONES: son fragmentos de código que nosotros podemos utilizar cuantas veces nosotros queramos.
+
+-DECLARACIONES IF: son instrucciones y están separadas por punto y coma '(;)'.
