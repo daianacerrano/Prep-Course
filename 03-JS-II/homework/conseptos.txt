@@ -1,0 +1,16 @@
+CONCEPTOS
+
+
+ for : Este bucle, se usa para repetir las instrucciones, un determinado número de veces. 
+
+
+
+ &&  :  Si las condiciones del if son true, este ejecutara el código.
+
+
+
+ ||  :  significa "o" también "or" y ejecuta el código si una de las condiciones es true.
+
+
+
+!   : es negación si el comando es true devuelve false.
